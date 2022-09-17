@@ -1,3 +1,3 @@
 # HotelDDL
 
-Aplicació per a la gestió d'un hotel.
+Aplicació per la gestió d'un hotel.
